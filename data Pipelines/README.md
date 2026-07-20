@@ -58,7 +58,6 @@ generate_data.py → makes fake CSV data
 extract_load.py → main ETL script
 export_report.py → reporting script
 pipeline.py → MySQL pipeline
-
 Day1.sql → SQL schema and practice queries
 requirements.txt → dependencies
-.env.example → template for DB settings
+.env → DB settings
