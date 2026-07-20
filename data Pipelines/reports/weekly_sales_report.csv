@@ -1,0 +1,69 @@
+=== Revenue by Product Category ===
+category,total_revenue
+
+Books,23761.67
+
+Sports,22445.17
+
+Electronics,20935.26
+
+Home & Kitchen,17574.02
+
+Clothing,13166.28
+
+
+=== Top 5 Customers by Spend ===
+customer_id,name,total_spent
+
+344,Brenda Fernandez,4900.78
+
+128,Jeffrey Chavez,4414.47
+
+275,Shane Wright,3932.15
+
+170,Samuel Lewis,3634.11
+
+58,Dana Chapman,3523.08
+
+
+=== Orders Count by Status ===
+status,order_count
+
+completed,87
+
+shipped,83
+
+pending,72
+
+cancelled,69
+
+
+=== Month-over-Month Revenue Change ===
+month,monthly_revenue,prev_month_revenue,revenue_change_pct
+
+2025-07,9609.33,,
+
+2025-08,16892.79,9609.33,75.8
+
+2025-09,605.69,16892.79,-96.41
+
+2025-10,5633.49,605.69,830.09
+
+2025-11,6604.97,5633.49,17.24
+
+2025-12,8138.31,6604.97,23.21
+
+2026-01,10036.19,8138.31,23.32
+
+2026-02,8543.31,10036.19,-14.87
+
+2026-03,3401.58,8543.31,-60.18
+
+2026-04,11147.49,3401.58,227.72
+
+2026-05,6460.95,11147.49,-42.04
+
+2026-06,4536.99,6460.95,-29.78
+
+2026-07,6271.31,4536.99,38.23
+

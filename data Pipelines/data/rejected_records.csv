@@ -1,0 +1,234 @@
+source_table,rejection_reason,customer_id,name,email,address,product_id,category,price,order_id,quantity,order_date,status,total_amount
+customers,Duplicate customer_id,119.0,Jessica Davis,brettgarrett@example.net,"1293 Smith Square, Lisachester, UT 17825",,,,,,,,
+customers,Duplicate customer_id,108.0,John Brown,jillwebb@example.com,"385 Harrison Motorway, North Tinamouth, CT 92741",,,,,,,,
+customers,Duplicate customer_id,116.0,Jamie Escobar,jdean@example.net,"04394 Steven Branch Apt. 645, North Kellyfurt, IN 50400",,,,,,,,
+customers,Duplicate customer_id,275.0,James Hickman,clayanthony@example.net,"01777 Wheeler Avenue Suite 097, Staceyshire, DC 28205",,,,,,,,
+customers,Duplicate customer_id,136.0,Yvonne Kirby,qnelson,"28914 Randall Crossing Apt. 846, New William, AS 42221",,,,,,,,
+customers,Null or empty email,11.0,Richard Gibson,,"34309 Julie Centers Apt. 978, North Susan, CO 24857",,,,,,,,
+customers,Null or empty email,37.0,Virginia Sandoval,,"38597 Wolf Ford Suite 824, Gilmorefort, DE 04284",,,,,,,,
+customers,Null or empty email,53.0,Shawna Griffith,,"Unit 9451 Box 9832, DPO AP 63702",,,,,,,,
+customers,Null or empty email,54.0,Hayley Hawkins,,"368 Chelsea Shoals Suite 024, Sandrastad, AL 24278",,,,,,,,
+customers,Null or empty email,97.0,Jennifer Evans,,"34270 Faulkner Point Apt. 634, West Deborah, NV 49138",,,,,,,,
+customers,Null or empty email,102.0,Corey Fox,,"1567 Veronica Fork Suite 101, Grayside, NJ 07856",,,,,,,,
+customers,Null or empty email,108.0,Christopher Hill,,"4379 Stephen Dale, Adamfurt, MA 81790",,,,,,,,
+customers,Null or empty email,114.0,Martin Reynolds,,"9660 Jamie Terrace, New Cristianside, HI 48446",,,,,,,,
+customers,Null or empty email,159.0,Monica Dodson,,"03354 Curtis Parkway, Garyton, ME 38620",,,,,,,,
+customers,Null or empty email,175.0,Jasmine Frye,,"Unit 5800 Box 4397, DPO AE 83572",,,,,,,,
+customers,Null or empty email,186.0,Angela Ramirez,,"1108 Lisa Prairie, Hammondborough, PW 05305",,,,,,,,
+customers,Null or empty email,196.0,Tiffany Garcia,,"902 Oconnell Avenue Apt. 279, Davisview, IN 49107",,,,,,,,
+customers,Null or empty email,199.0,Jared Smith,,"184 Arroyo Unions, Nancyshire, KS 91490",,,,,,,,
+customers,Null or empty email,212.0,Christopher Mclaughlin,,"41638 Mitchell Summit Suite 631, East Keith, SC 60183",,,,,,,,
+customers,Null or empty email,242.0,Elizabeth Hunter,,"55699 Marilyn Fields, Marthafort, PW 62694",,,,,,,,
+customers,Null or empty email,283.0,Elizabeth Kemp,,"Unit 9297 Box 5170, DPO AE 89368",,,,,,,,
+customers,Malformed email,19.0,Jason Powell,elizabeth14,"66299 Sullivan Village, West Justinchester, WY 76520",,,,,,,,
+customers,Malformed email,24.0,Tommy Evans,gateskathy,"893 Robinson Mews Suite 065, Ramseymouth, PW 17229",,,,,,,,
+customers,Malformed email,55.0,Mark Johnson,ashleymorales,"6752 Collins Islands, North Ericton, TX 11194",,,,,,,,
+customers,Malformed email,86.0,Susan Davis,katelynmitchell,"62067 Sharon Well, Nancytown, ME 74944",,,,,,,,
+customers,Malformed email,173.0,Mallory Page,samantha22,"968 Rich Manors Apt. 810, Thomaston, ID 35494",,,,,,,,
+customers,Malformed email,174.0,Melissa Phillips,tonyavega,"7198 Julia Points, Youngport, UT 87597",,,,,,,,
+customers,Malformed email,187.0,Holly Walker,amy87,"78816 Shaw Shore Apt. 928, South Erik, OK 74663",,,,,,,,
+customers,Malformed email,219.0,Christina Washington,williamssharon,"789 Williams Forges Apt. 037, South Laurieton, MN 73641",,,,,,,,
+customers,Malformed email,230.0,Lori Johns,wendyirwin,"432 Prince Shoals, North Jessica, NC 89367",,,,,,,,
+customers,Malformed email,234.0,Jared Williams,dwatts,"569 Abigail Mission Suite 038, Terrellton, OH 51278",,,,,,,,
+products,Null category,,Centralized next generation application,,,15.0,,382.39,,,,,
+products,Null category,,Implemented homogeneous initiative,,,16.0,,285.33,,,,,
+products,Null category,,Persevering multi-state groupware,,,24.0,,91.97,,,,,
+products,Null category,,Persevering disintermediate hub,,,77.0,,146.62,,,,,
+products,Null category,,Ergonomic national frame,,,87.0,,227.71,,,,,
+products,Negative price,,Cloned bi-directional service-desk,,,14.0,Sports,-4.47,,,,,
+products,Negative price,,Cross-platform global projection,,,22.0,Home & Kitchen,-30.63,,,,,
+products,Negative price,,Customer-focused 24/7 policy,,,26.0,Books,-4.86,,,,,
+products,Negative price,,Quality-focused zero-defect circuit,,,37.0,Books,-31.93,,,,,
+products,Negative price,,Innovative intangible groupware,,,51.0,Sports,-33.5,,,,,
+products,Negative price,,Balanced modular definition,,,53.0,Books,-32.15,,,,,
+products,Negative price,,Realigned bifurcated circuit,,,62.0,Clothing,-4.39,,,,,
+products,Negative price,,Business-focused responsive utilization,,,89.0,Electronics,-40.88,,,,,
+orders,Null quantity,173.0,,,,73.0,,,3.0,,2026-03-01,completed,1286.49
+orders,Null quantity,309.0,,,,65.0,,,13.0,,2026-07-01,???,1043.47
+orders,Null quantity,52.0,,,,18.0,,,25.0,,2025-09-18,pending,1870.71
+orders,Null quantity,245.0,,,,32.0,,,32.0,,2025-09-09,shipped,1908.53
+orders,Null quantity,36.0,,,,61.0,,,40.0,,2026-03-02,pending,1956.88
+orders,Null quantity,194.0,,,,78.0,,,51.0,,2025-12-08,pending,1740.25
+orders,Null quantity,328.0,,,,51.0,,,87.0,,2026-04-07,pending,864.81
+orders,Null quantity,188.0,,,,97.0,,,96.0,,2025-11-02,pending,213.81
+orders,Null quantity,299.0,,,,10.0,,,138.0,,2026-05-20,shipped,193.04
+orders,Null quantity,220.0,,,,50.0,,,191.0,,2026-05-20,cancelled,1785.09
+orders,Null quantity,272.0,,,,87.0,,,192.0,,2025-07-31,pending,695.26
+orders,Null quantity,174.0,,,,54.0,,,217.0,,2026-01-10,completed,906.5
+orders,Null quantity,259.0,,,,64.0,,,218.0,,2026-03-24,shipped,971.03
+orders,Null quantity,132.0,,,,37.0,,,234.0,,2025-10-04,cancelled,1022.38
+orders,Null quantity,83.0,,,,66.0,,,259.0,,2026-02-12,completed,1845.67
+orders,Null quantity,217.0,,,,70.0,,,285.0,,2026-04-23,pending,249.53
+orders,Null quantity,270.0,,,,4.0,,,299.0,,2026-02-08,cancelled,939.72
+orders,Null quantity,134.0,,,,2.0,,,302.0,,2026-02-25,pending,943.7
+orders,Null quantity,135.0,,,,59.0,,,318.0,,2026-06-11,shipped,1767.04
+orders,Null quantity,150.0,,,,80.0,,,412.0,,2025-08-14,pending,1704.38
+orders,Null quantity,169.0,,,,74.0,,,428.0,,2026-03-11,shipped,813.79
+orders,Null quantity,335.0,,,,180.0,,,435.0,,2025-12-17,pending,-184.3
+orders,Null quantity,176.0,,,,39.0,,,488.0,,2025-07-29,pending,1391.55
+orders,Invalid status,451.0,,,,31.0,,,9.0,6.0,2026-03-28,???,1765.86
+orders,Invalid status,318.0,,,,49.0,,,17.0,4.0,2025-10-18,refunded,887.67
+orders,Invalid status,317.0,,,,79.0,,,59.0,8.0,2026-01-06,,-235.82
+orders,Invalid status,305.0,,,,59.0,,,74.0,5.0,2026-05-20,,1244.18
+orders,Invalid status,164.0,,,,6.0,,,85.0,2.0,2025-11-25,???,1357.51
+orders,Invalid status,489.0,,,,89.0,,,129.0,6.0,2025-10-15,,1457.16
+orders,Invalid status,202.0,,,,63.0,,,160.0,6.0,2026-02-20,refunded,1327.42
+orders,Invalid status,207.0,,,,78.0,,,171.0,7.0,2026-05-29,???,108.09
+orders,Invalid status,193.0,,,,33.0,,,196.0,10.0,2025-11-24,refunded,1310.6
+orders,Invalid status,255.0,,,,3.0,,,212.0,7.0,2025-09-30,refunded,1585.65
+orders,Invalid status,143.0,,,,17.0,,,229.0,5.0,2026-04-12,,318.06
+orders,Invalid status,223.0,,,,10.0,,,237.0,3.0,2025-12-15,???,155.76
+orders,Invalid status,43.0,,,,70.0,,,266.0,4.0,2026-06-20,refunded,244.48
+orders,Invalid status,132.0,,,,29.0,,,322.0,2.0,2025-12-17,unknown,1857.52
+orders,Invalid status,262.0,,,,21.0,,,364.0,7.0,2026-01-26,unknown,1135.33
+orders,Invalid status,213.0,,,,43.0,,,376.0,4.0,2025-11-22,unknown,516.29
+orders,Invalid status,223.0,,,,45.0,,,401.0,10.0,2025-10-24,,1706.49
+orders,Invalid status,324.0,,,,25.0,,,432.0,4.0,2025-09-05,unknown,135.36
+orders,Invalid status,158.0,,,,58.0,,,433.0,1.0,2026-02-11,refunded,1444.81
+orders,Invalid status,183.0,,,,35.0,,,483.0,6.0,2025-10-19,???,1873.27
+orders,Invalid status,186.0,,,,75.0,,,485.0,3.0,2025-08-23,???,974.95
+orders,Negative total_amount,343.0,,,,1.0,,,58.0,4.0,2025-09-26,pending,-247.64
+orders,Negative total_amount,249.0,,,,88.0,,,105.0,1.0,2026-02-14,shipped,-36.21
+orders,Negative total_amount,290.0,,,,50.0,,,143.0,1.0,2026-05-31,pending,-95.47
+orders,Negative total_amount,253.0,,,,23.0,,,147.0,2.0,2025-08-21,pending,-261.48
+orders,Negative total_amount,425.0,,,,87.0,,,203.0,2.0,2026-02-26,completed,-430.94
+orders,Negative total_amount,222.0,,,,32.0,,,209.0,7.0,2025-08-12,completed,-33.75
+orders,Negative total_amount,332.0,,,,2.0,,,242.0,9.0,2026-04-01,completed,-202.27
+orders,Negative total_amount,59.0,,,,62.0,,,258.0,10.0,2025-09-07,shipped,-478.47
+orders,Negative total_amount,57.0,,,,80.0,,,306.0,10.0,2026-01-14,cancelled,-475.23
+orders,Negative total_amount,27.0,,,,28.0,,,312.0,4.0,2026-03-26,cancelled,-103.6
+orders,Negative total_amount,1.0,,,,37.0,,,329.0,9.0,2025-10-23,cancelled,-8.79
+orders,Negative total_amount,12.0,,,,168.0,,,346.0,8.0,2025-10-20,pending,-158.53
+orders,Negative total_amount,327.0,,,,36.0,,,353.0,4.0,2026-02-12,pending,-8.01
+orders,Negative total_amount,93.0,,,,17.0,,,366.0,1.0,2026-05-10,cancelled,-251.68
+orders,Negative total_amount,265.0,,,,17.0,,,385.0,1.0,2025-07-29,completed,-34.76
+orders,Negative total_amount,305.0,,,,43.0,,,386.0,1.0,2025-08-16,cancelled,-121.51
+orders,Negative total_amount,273.0,,,,88.0,,,417.0,8.0,2026-04-22,shipped,-37.32
+orders,Negative total_amount,125.0,,,,6.0,,,439.0,10.0,2026-05-11,pending,-257.0
+orders,Negative total_amount,209.0,,,,17.0,,,454.0,4.0,2026-01-06,completed,-166.15
+orders,Negative total_amount,68.0,,,,54.0,,,464.0,1.0,2026-04-01,completed,-99.81
+orders,Orphan customer_id,212.0,,,,53.0,,,18.0,10.0,2025-12-19,completed,1042.18
+orders,Orphan customer_id,404.0,,,,97.0,,,65.0,7.0,2026-07-04,cancelled,488.54
+orders,Orphan customer_id,228.0,,,,35.0,,,70.0,2.0,2026-02-03,shipped,1029.76
+orders,Orphan customer_id,187.0,,,,73.0,,,77.0,9.0,2025-10-15,completed,928.63
+orders,Orphan customer_id,86.0,,,,6.0,,,81.0,7.0,2025-12-05,cancelled,866.61
+orders,Orphan customer_id,417.0,,,,96.0,,,82.0,10.0,2025-08-02,pending,788.36
+orders,Orphan customer_id,405.0,,,,97.0,,,88.0,2.0,2025-11-23,pending,402.18
+orders,Orphan customer_id,318.0,,,,46.0,,,93.0,8.0,2026-05-13,shipped,1015.82
+orders,Orphan customer_id,234.0,,,,155.0,,,106.0,3.0,2026-07-08,cancelled,1866.12
+orders,Orphan customer_id,438.0,,,,55.0,,,109.0,8.0,2026-05-14,shipped,1613.85
+orders,Orphan customer_id,123.0,,,,12.0,,,119.0,2.0,2026-05-09,completed,1485.97
+orders,Orphan customer_id,86.0,,,,96.0,,,121.0,5.0,2025-07-23,completed,68.42
+orders,Orphan customer_id,242.0,,,,99.0,,,144.0,4.0,2026-01-14,completed,489.89
+orders,Orphan customer_id,417.0,,,,10.0,,,157.0,7.0,2026-01-05,completed,1797.27
+orders,Orphan customer_id,497.0,,,,74.0,,,166.0,10.0,2025-09-06,shipped,1968.89
+orders,Orphan customer_id,102.0,,,,60.0,,,176.0,2.0,2025-10-14,pending,1192.15
+orders,Orphan customer_id,19.0,,,,74.0,,,184.0,6.0,2026-04-13,pending,1280.24
+orders,Orphan customer_id,108.0,,,,22.0,,,190.0,3.0,2026-02-24,completed,873.09
+orders,Orphan customer_id,527.0,,,,57.0,,,197.0,9.0,2026-02-24,pending,1374.62
+orders,Orphan customer_id,458.0,,,,85.0,,,198.0,10.0,2026-03-20,pending,1798.26
+orders,Orphan customer_id,441.0,,,,38.0,,,215.0,6.0,2025-11-23,completed,989.92
+orders,Orphan customer_id,345.0,,,,91.0,,,222.0,3.0,2025-09-23,cancelled,1523.94
+orders,Orphan customer_id,388.0,,,,8.0,,,224.0,3.0,2026-04-07,cancelled,133.45
+orders,Orphan customer_id,523.0,,,,1.0,,,239.0,10.0,2025-10-06,completed,154.45
+orders,Orphan customer_id,55.0,,,,88.0,,,240.0,2.0,2025-10-17,shipped,1646.02
+orders,Orphan customer_id,391.0,,,,18.0,,,241.0,9.0,2025-11-09,pending,1775.09
+orders,Orphan customer_id,518.0,,,,41.0,,,267.0,2.0,2025-10-07,cancelled,1076.85
+orders,Orphan customer_id,374.0,,,,61.0,,,271.0,7.0,2025-11-16,cancelled,169.28
+orders,Orphan customer_id,449.0,,,,52.0,,,272.0,9.0,2026-01-02,completed,1642.26
+orders,Orphan customer_id,55.0,,,,65.0,,,277.0,2.0,2025-09-18,cancelled,1628.16
+orders,Orphan customer_id,187.0,,,,36.0,,,288.0,10.0,2025-11-02,pending,1444.42
+orders,Orphan customer_id,11.0,,,,45.0,,,292.0,10.0,2026-01-08,pending,576.37
+orders,Orphan customer_id,476.0,,,,62.0,,,303.0,7.0,2026-06-25,pending,1100.94
+orders,Orphan customer_id,55.0,,,,30.0,,,315.0,9.0,2026-01-12,cancelled,883.05
+orders,Orphan customer_id,187.0,,,,31.0,,,319.0,2.0,2026-04-21,shipped,1369.62
+orders,Orphan customer_id,37.0,,,,10.0,,,324.0,9.0,2026-06-03,pending,387.03
+orders,Orphan customer_id,114.0,,,,87.0,,,335.0,7.0,2026-01-12,completed,586.67
+orders,Orphan customer_id,450.0,,,,85.0,,,344.0,6.0,2026-04-16,completed,1767.97
+orders,Orphan customer_id,493.0,,,,29.0,,,348.0,7.0,2026-06-22,completed,1046.23
+orders,Orphan customer_id,19.0,,,,5.0,,,369.0,10.0,2025-12-09,completed,839.74
+orders,Orphan customer_id,345.0,,,,85.0,,,370.0,10.0,2025-08-17,pending,1501.18
+orders,Orphan customer_id,19.0,,,,39.0,,,371.0,7.0,2026-05-08,shipped,139.2
+orders,Orphan customer_id,174.0,,,,81.0,,,381.0,3.0,2025-10-07,shipped,242.52
+orders,Orphan customer_id,474.0,,,,20.0,,,384.0,8.0,2026-01-14,cancelled,295.16
+orders,Orphan customer_id,108.0,,,,25.0,,,387.0,9.0,2026-03-24,shipped,552.58
+orders,Orphan customer_id,234.0,,,,83.0,,,392.0,8.0,2025-12-14,pending,1792.44
+orders,Orphan customer_id,187.0,,,,90.0,,,393.0,6.0,2025-11-29,cancelled,70.23
+orders,Orphan customer_id,55.0,,,,84.0,,,395.0,5.0,2025-12-21,shipped,484.76
+orders,Orphan customer_id,535.0,,,,85.0,,,405.0,3.0,2025-09-10,shipped,1788.23
+orders,Orphan customer_id,86.0,,,,177.0,,,411.0,10.0,2026-01-14,shipped,1149.99
+orders,Orphan customer_id,345.0,,,,25.0,,,420.0,3.0,2026-01-17,completed,1665.06
+orders,Orphan customer_id,376.0,,,,88.0,,,421.0,4.0,2026-06-02,cancelled,57.16
+orders,Orphan customer_id,24.0,,,,43.0,,,438.0,5.0,2026-04-05,shipped,746.16
+orders,Orphan customer_id,396.0,,,,91.0,,,440.0,5.0,2025-07-23,shipped,420.26
+orders,Orphan customer_id,228.0,,,,42.0,,,446.0,6.0,2025-09-26,completed,205.15
+orders,Orphan customer_id,199.0,,,,59.0,,,448.0,6.0,2026-04-22,pending,73.87
+orders,Orphan customer_id,108.0,,,,98.0,,,460.0,6.0,2026-02-07,shipped,136.1
+orders,Orphan customer_id,230.0,,,,21.0,,,469.0,2.0,2025-11-15,shipped,1539.35
+orders,Orphan customer_id,283.0,,,,4.0,,,472.0,4.0,2026-03-08,completed,1220.22
+orders,Orphan customer_id,546.0,,,,9.0,,,481.0,6.0,2025-12-11,shipped,1259.71
+orders,Orphan customer_id,228.0,,,,53.0,,,497.0,7.0,2026-06-26,completed,1606.85
+orders,Orphan customer_id,53.0,,,,22.0,,,499.0,4.0,2026-05-24,shipped,1677.84
+orders,Orphan product_id,320.0,,,,16.0,,,12.0,2.0,2025-10-12,cancelled,737.56
+orders,Orphan product_id,323.0,,,,161.0,,,16.0,10.0,2026-06-19,completed,349.32
+orders,Orphan product_id,349.0,,,,89.0,,,20.0,8.0,2025-11-14,pending,604.01
+orders,Orphan product_id,148.0,,,,87.0,,,22.0,7.0,2026-06-29,pending,582.38
+orders,Orphan product_id,294.0,,,,184.0,,,33.0,4.0,2026-05-06,completed,327.84
+orders,Orphan product_id,294.0,,,,22.0,,,37.0,9.0,2026-02-05,pending,982.77
+orders,Orphan product_id,295.0,,,,77.0,,,46.0,6.0,2025-12-31,pending,1047.29
+orders,Orphan product_id,75.0,,,,171.0,,,55.0,10.0,2025-11-02,cancelled,666.43
+orders,Orphan product_id,147.0,,,,190.0,,,60.0,3.0,2025-10-17,completed,489.53
+orders,Orphan product_id,225.0,,,,89.0,,,78.0,7.0,2025-08-26,pending,491.62
+orders,Orphan product_id,317.0,,,,87.0,,,90.0,5.0,2025-11-13,completed,633.24
+orders,Orphan product_id,60.0,,,,89.0,,,91.0,7.0,2026-05-04,pending,851.85
+orders,Orphan product_id,62.0,,,,118.0,,,120.0,3.0,2026-03-30,cancelled,1568.14
+orders,Orphan product_id,140.0,,,,26.0,,,133.0,10.0,2025-10-08,completed,937.45
+orders,Orphan product_id,90.0,,,,152.0,,,136.0,9.0,2026-02-04,pending,212.8
+orders,Orphan product_id,63.0,,,,200.0,,,137.0,3.0,2026-03-03,shipped,1264.29
+orders,Orphan product_id,182.0,,,,24.0,,,140.0,8.0,2026-05-09,completed,1237.78
+orders,Orphan product_id,305.0,,,,62.0,,,158.0,7.0,2026-01-09,pending,874.06
+orders,Orphan product_id,177.0,,,,53.0,,,164.0,10.0,2026-02-28,completed,1638.63
+orders,Orphan product_id,350.0,,,,117.0,,,179.0,10.0,2026-04-11,pending,1612.12
+orders,Orphan product_id,287.0,,,,24.0,,,186.0,6.0,2025-11-12,pending,1490.98
+orders,Orphan product_id,317.0,,,,15.0,,,199.0,8.0,2026-05-25,pending,1664.68
+orders,Orphan product_id,7.0,,,,15.0,,,201.0,8.0,2026-07-08,completed,159.35
+orders,Orphan product_id,241.0,,,,22.0,,,210.0,8.0,2026-02-11,cancelled,110.2
+orders,Orphan product_id,163.0,,,,24.0,,,231.0,9.0,2026-01-24,shipped,450.18
+orders,Orphan product_id,72.0,,,,26.0,,,249.0,2.0,2025-07-23,completed,1266.94
+orders,Orphan product_id,177.0,,,,62.0,,,256.0,1.0,2025-09-17,pending,467.68
+orders,Orphan product_id,144.0,,,,24.0,,,257.0,10.0,2025-08-31,completed,835.08
+orders,Orphan product_id,88.0,,,,53.0,,,261.0,10.0,2026-01-20,pending,1026.5
+orders,Orphan product_id,176.0,,,,77.0,,,262.0,4.0,2026-05-03,pending,412.67
+orders,Orphan product_id,272.0,,,,62.0,,,265.0,7.0,2026-07-04,completed,516.49
+orders,Orphan product_id,225.0,,,,185.0,,,273.0,9.0,2026-06-01,completed,1025.99
+orders,Orphan product_id,203.0,,,,26.0,,,275.0,2.0,2026-04-03,cancelled,1122.64
+orders,Orphan product_id,275.0,,,,134.0,,,280.0,2.0,2026-07-18,cancelled,1863.48
+orders,Orphan product_id,267.0,,,,53.0,,,296.0,1.0,2026-03-10,pending,1881.47
+orders,Orphan product_id,41.0,,,,51.0,,,297.0,2.0,2026-05-28,shipped,62.47
+orders,Orphan product_id,96.0,,,,37.0,,,307.0,8.0,2026-02-27,pending,39.3
+orders,Orphan product_id,29.0,,,,51.0,,,309.0,8.0,2026-05-01,cancelled,1658.22
+orders,Orphan product_id,341.0,,,,14.0,,,326.0,3.0,2026-06-14,cancelled,1072.46
+orders,Orphan product_id,162.0,,,,189.0,,,330.0,9.0,2025-09-26,pending,926.14
+orders,Orphan product_id,40.0,,,,62.0,,,332.0,10.0,2026-03-15,completed,607.78
+orders,Orphan product_id,67.0,,,,62.0,,,337.0,8.0,2026-07-07,pending,1994.19
+orders,Orphan product_id,148.0,,,,189.0,,,341.0,5.0,2026-02-24,completed,1482.63
+orders,Orphan product_id,8.0,,,,53.0,,,356.0,4.0,2026-07-09,completed,1909.85
+orders,Orphan product_id,280.0,,,,53.0,,,362.0,1.0,2025-10-11,pending,189.46
+orders,Orphan product_id,59.0,,,,180.0,,,388.0,2.0,2026-04-14,cancelled,549.39
+orders,Orphan product_id,146.0,,,,22.0,,,389.0,10.0,2026-04-07,shipped,67.7
+orders,Orphan product_id,180.0,,,,22.0,,,394.0,6.0,2026-05-04,pending,817.32
+orders,Orphan product_id,189.0,,,,62.0,,,408.0,2.0,2026-05-05,cancelled,165.69
+orders,Orphan product_id,332.0,,,,24.0,,,423.0,3.0,2026-06-10,shipped,160.67
+orders,Orphan product_id,142.0,,,,89.0,,,424.0,6.0,2025-09-19,completed,134.15
+orders,Orphan product_id,284.0,,,,150.0,,,431.0,5.0,2025-11-10,completed,724.93
+orders,Orphan product_id,50.0,,,,22.0,,,436.0,2.0,2025-09-22,completed,1194.01
+orders,Orphan product_id,327.0,,,,22.0,,,450.0,9.0,2026-06-30,completed,1048.32
+orders,Orphan product_id,218.0,,,,62.0,,,453.0,2.0,2025-10-10,pending,1508.63
+orders,Orphan product_id,249.0,,,,16.0,,,461.0,9.0,2026-03-24,cancelled,742.61
+orders,Orphan product_id,267.0,,,,53.0,,,465.0,6.0,2026-07-02,shipped,1138.83
+orders,Orphan product_id,198.0,,,,37.0,,,475.0,5.0,2026-05-14,completed,1776.73
+orders,Orphan product_id,213.0,,,,37.0,,,476.0,7.0,2025-12-12,shipped,1178.49
+orders,Orphan product_id,68.0,,,,62.0,,,487.0,6.0,2025-12-29,shipped,1199.32
+orders,Orphan product_id,342.0,,,,113.0,,,491.0,10.0,2026-06-02,pending,709.55
+orders,Orphan product_id,110.0,,,,53.0,,,495.0,6.0,2025-08-12,completed,996.67
+orders,Orphan product_id,189.0,,,,87.0,,,498.0,2.0,2025-08-25,completed,795.67
